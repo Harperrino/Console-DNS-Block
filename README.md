@@ -5,7 +5,7 @@
 >
 > All credit for the project, its blocklists, and the original documentation goes to **[ZixX3r](https://github.com/ZixX3r)** and the contributors acknowledged below. I do not claim authorship or independent development of these lists.
 >
-> I keep this fork as a personal copy in case the original repository becomes unavailable. **It is not independently maintained, and upstream changes are not automatically synchronized.**
+> I keep this fork as a personal copy in case the original repository becomes unavailable. **I may adapt the blocklists to my own needs whenever necessary**, but this is not intended to be a separately or regularly maintained alternative to the original project. Upstream changes are not synchronized automatically.
 
 ## Use this fork with AdGuard Home
 
