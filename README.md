@@ -1,3 +1,29 @@
+# Console DNS Blocklist — Personal Fork
+
+> [!IMPORTANT]
+> **This repository is solely a personal fork/backup of [ZixX3r/Console-DNS-Block](https://github.com/ZixX3r/Console-DNS-Block).**
+>
+> All credit for the project, its blocklists, and the original documentation goes to **[ZixX3r](https://github.com/ZixX3r)** and the contributors acknowledged below. I do not claim authorship or independent development of these lists.
+>
+> I keep this fork as a personal copy in case the original repository becomes unavailable. **It is not independently maintained, and upstream changes are not automatically synchronized.**
+
+## Use this fork with AdGuard Home
+
+Add one of these **Raw** URLs under **Filters → DNS blocklists → Add blocklist → Add a custom list**:
+
+- **PlayStation (PS4/PS5):** [`sony-block.txt`](https://raw.githubusercontent.com/Harperrino/Console-DNS-Block/main/sony-block.txt)
+- **All included platforms:** [`full-block-List.txt`](https://raw.githubusercontent.com/Harperrino/Console-DNS-Block/main/full-block-List.txt)
+
+These are the files in **this fork**; they are not guaranteed to remain up to date with upstream. Blocking console update domains can also affect online services or downloads.
+
+---
+
+## Original upstream README
+
+*The following is the original README from [ZixX3r/Console-DNS-Block](https://github.com/ZixX3r/Console-DNS-Block), retained for reference. First-person statements and original installation URLs below refer to the upstream author/project.*
+
+---
+
 # Console-DNS-Block
 
 # 🎮 Console DNS Blocklist (ver. 26.04-18)
